@@ -1,10 +1,10 @@
-OnDaro – E-commerce Website Description
+E-commerce Website Description
 
-OnDaro is a custom-designed e-commerce website built to offer a simple, smooth, and user-friendly online shopping experience. The main idea behind this project was to create a complete shopping platform where users can easily browse products, filter them by category or price, view details, add items to a cart, and place orders — just like they would on any major online store.
+This is a custom-designed e-commerce website built to offer a simple, smooth, and user-friendly online shopping experience. The main idea behind this project was to create a complete shopping platform where users can easily browse products, filter them by category or price, view details, add items to a cart, and place orders — just like they would on any major online store.
 
 The website features multiple product categories such as Fashion, Electronics, Gaming, Health & Beauty, and more. Each product has its own page with images, description, pricing, and customer ratings. There's also a shopping cart and checkout process that makes the experience feel real and complete.
 
-What makes OnDaro different is its clean design and responsiveness. It works well on both desktop and mobile devices. I used HTML, Tailwind CSS, and JavaScript for the frontend, while the backend is handled using Node.js and Express. Product data is fetched from a local API, and everything from the homepage to the order confirmation page is fully functional.
+What makes E-commerce different is its clean design and responsiveness. It works well on both desktop and mobile devices. I used HTML, Tailwind CSS, and JavaScript for the frontend, while the backend is handled using Node.js and Express. Product data is fetched from a local API, and everything from the homepage to the order confirmation page is fully functional.
 
 Apart from the core features, the site also includes an About Us page, a contact form with validation, and a working search page to help users find what they’re looking for.
 
@@ -13,7 +13,7 @@ This project helped me understand how real-world e-commerce platforms work — f
 
  Project Description
 
-OnDaro is a modern, responsive, and user-friendly e-commerce website designed to provide a seamless online shopping experience for customers. The platform allows users to browse and purchase a wide range of products across various categories, including fashion, electronics, health & beauty, home decor, and more.
+This is a modern, responsive, and user-friendly e-commerce website designed to provide a seamless online shopping experience for customers. The platform allows users to browse and purchase a wide range of products across various categories, including fashion, electronics, health & beauty, home decor, and more.
 
 Built using HTML, Tailwind CSS, Font Awesome, and JavaScript for the frontend, and powered by a Node.js + Express backend, OnDaro integrates API-based product data and offers essential e-commerce features such as product filters, shopping cart, checkout process, order confirmation, and user communication via a contact form.
 
